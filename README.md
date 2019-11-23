@@ -9,4 +9,4 @@ Eclipse IDE
 
 # Screens
 ![Alt text](screen.png "Main")
-![Alt text](screen1.png "Report")
+![Alt text](screen1.png "Reports")
