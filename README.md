@@ -1,5 +1,5 @@
 # Inv 
-Java app to store inventory, generate reports, etc for motocycle store using derby db
+Java desktop app to store inventory, customers data, generate/print reports, etc for motocycle store using derby db.
 
 # Version 1.0.2
 
